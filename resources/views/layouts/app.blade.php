@@ -79,6 +79,8 @@
 
   </div> <!-- /container -->
 
+  @include('layouts._modal')
+
 
   <!-- Bootstrap core JavaScript
     ================================================== -->
