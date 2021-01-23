@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Ajax CRUD Laravel 7.0
                 </div>
 
                 <div class="links">
