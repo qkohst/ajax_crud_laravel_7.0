@@ -1,3 +1,21 @@
+<b>Ajax CRUD Laravel 7.0 with Server-side Validation</b>
+
+Home Page
+![a](https://user-images.githubusercontent.com/57386598/105612894-9d26cf80-5df1-11eb-9ee9-5af6b03d3e70.png)
+
+Modal Create
+![b](https://user-images.githubusercontent.com/57386598/105612895-9ef09300-5df1-11eb-8d3f-425e30edff50.png)
+
+Success Confirmation
+![c](https://user-images.githubusercontent.com/57386598/105612896-9f892980-5df1-11eb-82ff-90e51d9a8ffd.png)
+
+Modal Detail
+![d](https://user-images.githubusercontent.com/57386598/105612898-a021c000-5df1-11eb-8d94-06bc90ee776d.png)
+
+Modal Delete Confirmation
+![e](https://user-images.githubusercontent.com/57386598/105612899-a0ba5680-5df1-11eb-8db7-c8bc6ea5bca8.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
